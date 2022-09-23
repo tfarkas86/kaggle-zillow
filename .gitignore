@@ -130,3 +130,5 @@ dmypy.json
 
 # data and models
 data/
+.Rproj.user
+
